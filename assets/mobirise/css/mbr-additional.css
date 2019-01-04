@@ -2113,6 +2113,24 @@ body {
 .cid-recg1s8DAv .mbr-text {
   color: #767676;
 }
+.cid-recuc04uuA {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+@media (min-width: 992px) {
+  .cid-recuc04uuA .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 992px) {
+  .cid-recuc04uuA .mbr-figure {
+    padding-bottom: 1rem;
+  }
+}
+.cid-recuc04uuA .mbr-text {
+  color: #767676;
+}
 .cid-rebC0IcMY6 {
   padding-top: 0px;
   padding-bottom: 120px;
