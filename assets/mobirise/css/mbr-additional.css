@@ -2077,33 +2077,83 @@ body {
 .cid-rebzEWhwzv .mbr-text {
   color: #767676;
 }
-.cid-rebAC4FvML {
+.cid-recf34kYGX {
   padding-top: 0px;
   padding-bottom: 60px;
   background-color: #ffffff;
 }
-.cid-rebBJJFIuM {
-  padding-top: 60px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
-}
 @media (min-width: 992px) {
-  .cid-rebBJJFIuM .mbr-figure {
+  .cid-recf34kYGX .mbr-figure {
     padding-right: 4rem;
   }
 }
 @media (max-width: 992px) {
-  .cid-rebBJJFIuM .mbr-figure {
+  .cid-recf34kYGX .mbr-figure {
     padding-bottom: 1rem;
   }
 }
-.cid-rebBJJFIuM .mbr-text {
+.cid-recf34kYGX .mbr-text {
+  color: #767676;
+}
+.cid-recg1s8DAv {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+@media (min-width: 992px) {
+  .cid-recg1s8DAv .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 992px) {
+  .cid-recg1s8DAv .mbr-figure {
+    padding-top: 1rem;
+  }
+}
+.cid-recg1s8DAv .mbr-text {
   color: #767676;
 }
 .cid-rebC0IcMY6 {
   padding-top: 0px;
   padding-bottom: 60px;
   background-color: #ffffff;
+}
+.cid-reckv6a8d3 {
+  padding-top: 90px;
+  padding-bottom: 120px;
+  background-image: url("../../../assets/images/beer-500x333.jpg");
+}
+@media (min-width: 992px) {
+  .cid-reckv6a8d3 .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-reckv6a8d3 .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-reckv6a8d3 .mbr-text {
+    text-align: center;
+  }
+}
+.cid-recgR9iVrp {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background: linear-gradient(0deg, #000000, #ffffff);
+}
+.cid-recgR9iVrp .mbr-iconfont-social {
+  font-size: 32px;
+  color: #ff3366;
+}
+.cid-recgR9iVrp .social-list a:focus {
+  text-decoration: none;
+}
+.cid-recjnOE6QS {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #000000;
 }
 .cid-ravWAfHkbo .navbar {
   padding: .5rem 0;
