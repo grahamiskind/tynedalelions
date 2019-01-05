@@ -1109,31 +1109,6 @@
           "_once": true,
           "_params": {},
           "_anchor": "footer6-y"
-        },
-        {
-          "loadsvg": "@PROJECT_PATH@/assets/images/loading.svg",
-          "_params": {
-            "paddingTop": "4",
-            "paddingBottom": "4",
-            "postToLoad": "7",
-            "facebook": "tynedalelionsclub",
-            "twitter": "",
-            "google": "",
-            "youtube": "",
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/social-feed/feed/assets/comments_bg.jpg",
-            "overlay": true,
-            "overlayColor": "#7e9b9f",
-            "overlayOpacity": 0.6
-          },
-          "alias": "social-feed",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "feed",
-          "_anchor": "feed-13"
         }
       ]
     },
